@@ -33,7 +33,7 @@ Et tout ça se **synchronise entre tous tes ordinateurs** grâce à un dépôt G
 
 ## 1. C'est quoi DinoStart ?
 
-DinoStart remplace la page qui s'ouvre quand tu ouvres un **nouvel onglet** dans Google Chrome (le bouton « + » ou `Ctrl + T`).
+DinoStart remplace la page qui s'ouvre quand tu ouvres un **nouvel onglet** dans Google Chrome (le bouton « + » en haut de la page).
 À la place de la page vide de Chrome, tu retrouves **ton** tableau de bord :
 
 | Tu veux… | DinoStart te donne… |
@@ -60,12 +60,11 @@ Pas besoin d'installer de logiciel ni de taper de commandes. Compte environ **3 
    (Si une page « Releases » propose un fichier `dinostart.zip`, tu peux aussi le prendre là.)
 2. Va dans ton dossier **Téléchargements**, fais un **clic droit** sur le fichier `.zip` puis **« Extraire tout… »**.
 3. Place le dossier obtenu à un endroit où il restera, par exemple `C:\DinoStart\`.
-4. Dedans, retiens le dossier nommé **`dist`** : c'est lui qu'on donne à Chrome.
+4. Garde uniquement le dossier **`dist`** : c’est celui qu’on donne à Chrome pour installer l’extension. Tu peux supprimer le reste des fichiers, sauf si tu souhaites modifier l’extension plus tard.
 
 > [!IMPORTANT]
 > **Ne déplace pas et ne supprime pas ce dossier** après l'installation : Chrome lit DinoStart directement depuis lui.
 > Si tu le déplaces, Chrome le considère comme une *nouvelle* extension et **tes données ne suivent pas** (elles restent attachées à l'ancien emplacement).
-> Si tu dois vraiment le déplacer : va d'abord dans **Sauvegardes → Exporter en JSON**, déplace, réinstalle, puis **Importer**.
 
 ### Étape 2 — Dire à Chrome de le charger
 
@@ -83,7 +82,7 @@ Pas besoin d'installer de logiciel ni de taper de commandes. Compte environ **3 
 
 ### Étape 3 — Ouvrir un nouvel onglet
 
-Clique sur le **« + »** (ou `Ctrl + T`) : DinoStart s'affiche. Au tout premier lancement, un **assistant** te pose quelques questions rapides (moteur de recherche, apparence). Tu peux le passer et tout régler plus tard.
+Clique sur le **« + »** : DinoStart s'affiche. Au tout premier lancement, un **assistant** te pose quelques questions rapides (moteur de recherche, apparence). Tu peux le passer et tout régler plus tard.
 
 <div align="center">
 <img src="docs/images/02-assistant.png" alt="L'assistant du premier lancement" width="460" />
