@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="branding/logo-original.png" alt="Le dino de DinoStart" width="120" />
+<img src="public/logo.png" alt="Le dino de DinoStart" width="120" />
 
 # DinoStart
 
