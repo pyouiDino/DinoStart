@@ -12,7 +12,6 @@ Et tout ça se **synchronise entre tous tes ordinateurs** grâce à un dépôt G
 
 **Gratuit · Aucun compte à créer chez nous · Aucune pub · Aucune collecte de données**
 
-<sub>Créé avec ❤️ et <a href="https://claude.ai">Claude</a></sub>
 
 [Installer](#2-installer-dinostart) · [Visite guidée](#3-visite-guidée) · [Synchroniser plusieurs PC](#4-synchroniser-plusieurs-ordinateurs) · [Dépannage](#6-dépannage) · [Discord](#8-un-bug-une-idée-une-question-)
 
@@ -512,6 +511,6 @@ Les idées sont les bienvenues : nouvelle carte, nouveau raccourci, nouvelle opt
 
 <div align="center">
 
-<sub>DinoStart · Fait avec <a href="https://claude.ai">Claude</a> · Pour les développeurs : <a href="docs/DEVELOPPEURS.md">documentation technique</a></sub>
+<sub>DinoStart · Pour les développeurs : <a href="docs/DEVELOPPEURS.md">documentation technique</a></sub>
 
 </div>
