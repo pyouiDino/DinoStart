@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="public/logo.png" alt="Le dino de DinoStart" width="120" />
-
+ 
 # DinoStart
 
 **Ton nouvel onglet Chrome, 100 % à ta façon.**
